@@ -111,7 +111,7 @@ Execute the code blocks provided in the notebook to train and test the model.
 ## 📩 Contact
 If you have any questions about this project, please reach out:
 - **Name Surname**: Barış Güleç
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/barisgulec)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/barissglc/)
 - **Email**: barispvp@hotmail.com
 ```
 
