@@ -1,7 +1,9 @@
 ```markdown
 # MTA Artificial Intelligence Modeling
 
-This project was developed under the **Milli Teknoloji Akademisi Artificial Intelligence Expertise Program**. The study aims to analyze time series data, perform feature engineering, and achieve the best results using various machine learning models.
+This project was developed under the **Milli Teknoloji Akademisi Artificial Intelligence Expertise Program**.
+The study aims to analyze time series data, perform feature engineering,
+and achieve the best results using various machine learning models.
 
 ## 🚀 Project Content
 This project consists of the following components:
